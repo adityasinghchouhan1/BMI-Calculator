@@ -1,0 +1,86 @@
+    @media (min-width:767px){
+
+    .maindiv{
+    position: relative;
+    height: 380px;
+    width: 300px;
+    top: 120px;
+    left: 250px;
+    box-shadow: 3px 3px 16px black;
+
+    filter:drop-shadow( 0px 0px 6px #33f403) ;
+    background-color: white;
+    color: #000000;
+}
+    }
+
+    h2{font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+text-align: center;
+text-shadow: 3px 1px rgb(153, 141, 141);
+}
+
+
+.height{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    text-shadow: 1px 2px rgb(153, 141, 141);
+
+}
+
+.w{
+    position: absolute;
+    top: 115px;
+    left: 10px;
+    text-shadow: 1px 2px rgb(153, 141, 141);
+
+}
+
+.button{
+    position: absolute;
+    top: 180px;
+    left: 80px;
+    color: white;
+    background-color:#33f403;
+    border: solid 1px #33f403;
+    text-shadow: 2px 1px rgb(141, 127, 127);
+
+}
+
+.button:hover{
+    filter:drop-shadow( 0px 0px 6px #33f403) ;
+background-color: white;
+color: #33f403;
+}
+
+.result{
+    position: absolute;
+    top: 230px;
+    left: 60px;
+    filter:drop-shadow( 0px 0px 6px #33f403) ;
+    background-color: white;
+    color: #33f403;    
+}
+
+.BMI-output{
+    position: absolute;
+    top: 230px;
+    left: 20px;
+  color:black;
+  background-color:#33f403 ;
+  text-shadow: 3px 1px rgb(153, 141, 141);
+
+}
+.index{
+    position:absolute;
+    top: 265px;
+    font-size: 12px;
+    height: 124px;
+    width: 300px;
+    filter:drop-shadow( 0px 0px 6px #33f403) ;
+    background-color: white;
+    color:black;
+    text-align: left;
+    
+}
